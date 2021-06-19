@@ -15,7 +15,7 @@ public class Student {
 
     public int getSid() {
         return sid;
-    }
+    }温热他给我儿童版
 
     public void setSid(int sid) {
         this.sid = sid;
